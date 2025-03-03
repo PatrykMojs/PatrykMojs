@@ -4,14 +4,14 @@ I am a **Full-Stack Developer** specializing in the creation of modern web appli
 In my professional work, I use **C#** to develop efficient and scalable software. When creating web applications, I work with **React** and **JavaScript**, which allows me to build dynamic and interactive user interfaces. I seamlessly integrate the backend with the frontend, ensuring full functionality and application optimization.
 
 I am passionate about modern technologies and continuously expand my skills in programming, system architecture, and artificial intelligence.
-<br></br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrykmojs&label=Profile%20views&color=0e75b6&style=flat" alt="patrykmojs" /> </p>
 
 ## 📫 Contact Me
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/patryk-meus-493882280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patryk-meus-493882280/" height="25" width="40" /></a>
 <a href="mailto:patrykmeus@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Email" height="40" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ptr.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ptr.1/" height="30" width="40" /></a><br></br>
+<a href="https://instagram.com/https://www.instagram.com/ptr.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ptr.1/" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
