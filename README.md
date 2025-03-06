@@ -1,7 +1,7 @@
 #  Hi there! 👋 I'm Patryk
 I am a **Full-Stack Developer** specializing in the creation of modern web applications and software. I have completed my engineering studies in **Web Application Programming**, and I am currently continuing my education with a master's degree, specializing in **Artificial Intelligence Applications**.
 
-In my professional work, I use **C#** to develop efficient and scalable software. When creating web applications, I work with **React** and **JavaScript**, which allows me to build dynamic and interactive user interfaces. I seamlessly integrate the backend with the frontend, ensuring full functionality and application optimization.
+In my work, I use **C#** to develop efficient and scalable software. When creating web applications, I work with **React** and **JavaScript**, which allows me to build dynamic and interactive user interfaces. I seamlessly integrate the backend with the frontend, ensuring full functionality and application optimization.
 
 I am passionate about modern technologies and continuously expand my skills in programming, system architecture, and artificial intelligence.
 
