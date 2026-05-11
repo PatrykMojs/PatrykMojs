@@ -9,9 +9,7 @@ I am passionate about modern technologies and continuously expand my skills in p
 
 ## 📫 Contact Me
 <p>
-<a href="https://www.linkedin.com/in/patryk-meus-493882280/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patryk-meus-493882280/" height="25" width="40" /></a>
-<a href="mailto:patrykmeus@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Email" height="40" width="40" /></a>
-<a href="https://www.instagram.com/ptr.1/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ptr.1/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/patryk-meus-493882280/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patryk-meus-493882280/" height="25" width="40" /></a><a href="mailto:patrykmeus@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Email" height="40" width="40" /></a><a href="https://www.instagram.com/ptr.1/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ptr.1/" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
