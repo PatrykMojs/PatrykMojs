@@ -1,9 +1,12 @@
 #  Hi there! 👋 I'm Patryk
-I am a **Full-Stack Developer** specializing in the creation of modern web applications and software. I have completed my engineering studies in **Web Application Programming**, and I am currently continuing my education with a master's degree, specializing in **Artificial Intelligence Applications**.
 
-In my work, I use **C#** to develop efficient and scalable software. When creating web applications, I work with **React** and **JavaScript**, which allows me to build dynamic and interactive user interfaces. I seamlessly integrate the backend with the frontend, ensuring full functionality and application optimization.
+I am a .NET Developer focused on building practical business applications, integrations and automation tools.
 
-I am passionate about modern technologies and continuously expand my skills in programming, system architecture, and artificial intelligence.
+I work mainly with C#, ASP.NET Core, WPF, SQL and React. I build web applications, REST APIs, desktop software and background services that solve real problems — from business workflows and document automation to secure integrations and AI-assisted tools.
+
+My strongest areas are backend development, application architecture, system integrations, WPF desktop applications and the practical use of AI/ML in software projects.
+
+I care about writing clean, maintainable code and turning ideas into working products that can be used, tested and improved.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrykmojs&label=Profile%20views&color=0e75b6&style=flat" alt="patrykmojs" /> </p>
 
