@@ -27,19 +27,6 @@ I care about writing clean, maintainable code and turning ideas into working pro
   </a>
 </p>
 
-**C#, .NET, ASP.NET Core, REST APIs, Entity Framework Core, LINQ, background services, Windows Services**
-
----
-
-### Desktop Development
-<p>
-  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="WPF" width="40" height="40"/>
-  </a>
-</p>
-
-**WPF, MVVM, XAML, desktop business applications**
-
 ---
 
 ### Frontend
@@ -64,8 +51,6 @@ I care about writing clean, maintainable code and turning ideas into working pro
   </a>
 </p>
 
-**React, TypeScript, JavaScript, HTML, CSS, Bootstrap**
-
 ---
 
 ### Databases
@@ -77,8 +62,6 @@ I care about writing clean, maintainable code and turning ideas into working pro
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
   </a>
 </p>
-
-**SQL Server, SQLite, Firebird, Entity Framework Core**
 
 ---
 
@@ -98,8 +81,6 @@ I care about writing clean, maintainable code and turning ideas into working pro
   </a>
 </p>
 
-**Python, Pandas, Scikit-learn, TensorFlow/Keras, Google Colab, practical AI/ML experiments**
-
 ---
 
 ### Tools & DevOps
@@ -117,8 +98,6 @@ I care about writing clean, maintainable code and turning ideas into working pro
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
 </p>
-
-**Git, GitHub, Visual Studio, Visual Studio Code, Serilog, Quartz.NET, Docker basics**
 
 ---
 🚀 Always improving and coding! Let's connect and build something awesome together!
