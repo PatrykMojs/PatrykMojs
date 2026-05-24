@@ -77,7 +77,7 @@ I care about writing clean, maintainable code and turning ideas into working pro
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://firebirdsql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebirdsql/firebirdsql-icon.svg" alt="Firebird" width="40" height="40"/>
+    <img src="https://www.firebirdsql.org/img/about/logos/firebird-logo-90.png" alt="Firebird" width="40" height="40"/>
   </a>
 </p>
 
