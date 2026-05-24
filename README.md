@@ -136,4 +136,4 @@ I care about writing clean, maintainable code and turning ideas into working pro
 **Postman, Firebase, Figma, WordPress, Git, GitHub, Visual Studio, Visual Studio Code**
 
 ---
-🚀 Always improving and coding! Let's connect and build something awesome together!
+🚀 Currently focused on building practical .NET applications, secure integrations and AI-assisted automation tools.
